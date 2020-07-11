@@ -15,4 +15,8 @@ public class MainActivity extends AppCompatActivity {
     private void login() {
         //登录
     }
+
+    private void loadDate() {
+        //网络获取数据
+    }
 }
